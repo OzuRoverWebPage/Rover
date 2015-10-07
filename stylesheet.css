@@ -35,9 +35,14 @@ body {
     text-decoration: none;
 
 }
-.imageSlider {
+.carousel-inner {
+    height: 14vw;
+    max-width: 100%;
     margin-top: 17.1vw;
+
+
 }
+
 .text {
     padding-left: 200px;
     padding-right: 200px;;
