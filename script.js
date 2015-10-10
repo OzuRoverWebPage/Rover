@@ -9,5 +9,7 @@ $(document).ready(function() {
     $('.menuBar').mouseleave(function () {
         $(this).css("color","blue");
     });
+   
+
 
 });

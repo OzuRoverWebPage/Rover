@@ -1,8 +1,8 @@
 html {
-    background-color: #eeeeee;
+    background-color: #dddddd;
 }
 body {
-    background-color: #eeeeee;
+    background-color: #dddddd;
 }
 .header {
     background-image: url("images/headerImage.png");
@@ -52,7 +52,7 @@ body {
     position: absolute;
     padding-left: 200px;
     padding-right: 200px;;
-    background-color: #eeeeee;
+    background-color: #dddddd;
 
 }
 #sliderImages img {
@@ -63,7 +63,7 @@ body {
 .mainPage {
     padding-top: 100px;
     padding-bottom: 10vw;
-    background-color: #eeeeee;
+    background-color: #dddddd;
 }
 .information {
     margin-top: 50px;
@@ -80,13 +80,16 @@ body {
     font-family: Menlo;
 }
 .comingSoon {
-    background-color: #eeeeee;
+    background-color: #dddddd;
     margin-top: 400px;
     padding-bottom: 10vw;
 }
 .comingSoon div div h1 {
     color: deepskyblue;
     font-family: Menlo;
+}
+.comingSoon .container .jumbotron {
+    background-color: #dddddd;
 }
 .comingSoon div div p {
     font-size: 15px;
