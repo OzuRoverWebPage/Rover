@@ -157,6 +157,12 @@ body {
     width: 4vw;
     margin-top: 1vw;
 }
+#youtube-logo {
+    height: 4vw;
+    width: 5vw;
+    margin-top: 1vw;
+    margin-left: 1.8vw;
+}
 .copyright {
     padding-bottom: 0.1px;
     background-color: black;
