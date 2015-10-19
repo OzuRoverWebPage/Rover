@@ -43,7 +43,6 @@ body {
 .menuBar li a:hover {
     color: deepskyblue;
     text-decoration: none;
-
 }
 .imageSlider {
     width: 100%;
@@ -56,8 +55,8 @@ body {
 }
 #sliderImages img {
     width:100%;
-    height: 500px;
-    border:0;
+    height: 600px;
+    border: 0;
 }
 .mainPage {
     padding-top: 200px;
@@ -65,7 +64,7 @@ body {
     background-color: #dddddd;
 }
 .information {
-    margin-top: 50px;
+    margin-top: 150px;
     padding-bottom: 50px;
 }
 .information p {
@@ -100,9 +99,14 @@ body {
 
 .text {
     padding-left: 200px;
-    padding-right: 200px;;
+    padding-right: 200px;
     margin-top: 600px;
     font-family: monospace;
+}
+#poster {
+    width: 95%;
+    height: 95%;
+    margin-left: 10px;
 }
 .bottom {
     background: rgba(0,0,0,.85);
